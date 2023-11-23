@@ -21,6 +21,6 @@ Feel free to explore and provide feedback!
 
 If you have any questions or feedback, feel free to contact Me:
 
-1. [Email](sp.webdev2024@gmai.com)
+1. [Email](sp.webdev2024@gmail.com)
 2. [LinkedIn](https://www.linkedin.com/in/sarhan-patel-20241c)
 3. [Twitter](https://twitter.com/SarhanWebDev)
