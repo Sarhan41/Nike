@@ -4,7 +4,7 @@ A dynamic Landing Page inspired by Nike's design principles. Created using React
 
 ## Live Demo
 
-Experience Nike Landing Page live at the following link: [Youtube clone Live Demo](https://nikelanding-page.vercel.app/)
+Experience Nike Landing Page live at the following link: [Nike clone Live Demo](https://nikelanding-page.vercel.app/)
 
 Feel free to explore and provide feedback!
 
